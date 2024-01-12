@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NurtureNest</string>
+    <string name="login_error_msg_empty_email_phone">Please enter your email or phone number</string>
+    <string name="login_error_msg_empty_password">Please enter your password</string>
+    <string name="default_error_msg">an unclassified error has occured</string>
+</resources>
